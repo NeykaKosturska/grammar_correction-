@@ -1,0 +1,15 @@
+# Ignore environment variable files
+*.env
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment folders
+venv/
+
+# Ignore all .xlsx files in the repo
+*.xlsx
+
+# Ignore all .csv files in the repo
+*.csv
